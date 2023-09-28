@@ -2,8 +2,11 @@
 using ProblemSolved;
 
 Console.WriteLine("Hello, World!");
-ReverseInteger64BitCheck obj = new ReverseInteger64BitCheck();
+MathProblems obj = new MathProblems();
 Console.WriteLine("Enter number to reverse ");
 
-Console.WriteLine(obj.Reverse(Convert.ToInt32(Console.ReadLine()))); 
+Console.WriteLine(obj.Reverse(Convert.ToInt32(Console.ReadLine())));
+
+Console.WriteLine("Enter number to reverse ");
+Console.WriteLine(obj.IsPalindrome(Convert.ToInt32(Console.ReadLine())));
 
