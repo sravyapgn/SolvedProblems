@@ -3,10 +3,12 @@ using ProblemSolved;
 
 Console.WriteLine("Hello, World!");
 MathProblems obj = new MathProblems();
-Console.WriteLine("Enter number to reverse ");
 
+Console.WriteLine("Enter number to reverse ");
 Console.WriteLine(obj.Reverse(Convert.ToInt32(Console.ReadLine())));
 
 Console.WriteLine("Enter number to reverse ");
 Console.WriteLine(obj.IsPalindrome(Convert.ToInt32(Console.ReadLine())));
 
+Console.WriteLine("Given an integer n, return the number of trailing zeroes in n!.");
+Console.WriteLine(obj.TrailingZeroes(Convert.ToInt32(Console.ReadLine())));
