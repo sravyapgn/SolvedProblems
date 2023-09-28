@@ -1,0 +1,15 @@
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\bin\Debug\net6.0\ProblemSolved.exe
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\bin\Debug\net6.0\ProblemSolved.deps.json
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\bin\Debug\net6.0\ProblemSolved.runtimeconfig.json
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\bin\Debug\net6.0\ProblemSolved.dll
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\bin\Debug\net6.0\ProblemSolved.pdb
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.csproj.AssemblyReference.cache
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.AssemblyInfoInputs.cache
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.AssemblyInfo.cs
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.csproj.CoreCompileInputs.cache
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.dll
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\refint\ProblemSolved.dll
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.pdb
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ProblemSolved.genruntimeconfig.cache
+C:\Users\sgpuliga\source\repos\ProblemSolved\ProblemSolved\obj\Debug\net6.0\ref\ProblemSolved.dll
