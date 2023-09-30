@@ -87,5 +87,18 @@ namespace ProblemSolved
             }
             return step;
         }
+
+        public int MinimumSum(int num)
+        {
+            int[] res = new int[4];
+            for (int i = 0; num != 0; i++)
+            {
+                res[i] = num % 10;
+                num = num / 10;
+            }
+            Array.Sort(res);
+            // all the digits must be used
+            return 10 * (res[0] + res[1]) + res[2] + res[3];
+        }
     }
 }
