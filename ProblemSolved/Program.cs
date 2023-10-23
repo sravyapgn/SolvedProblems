@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ProblemSolved;
 using ProblemSolved.Maths;
+using ProblemSolved.RandomGUIDGenerator;
 
 Console.WriteLine("Hello, World!");
 MathProblems obj = new MathProblems();
@@ -30,11 +31,23 @@ MathProblems obj = new MathProblems();
 //Console.WriteLine(AddDigits.addDigits(38));
 
 //Console.WriteLine(NumberOfGoodPairs.GetNumberOfGoodPairs(new int[] { 1, 2, 3, 1, 1, 3 }));
-int[] resArray = PlusOne.AddplusOne(new int[] { 9 });
-foreach(int i in resArray)
-{
-    Console.Write(i);
-}
+//int[] resArray = PlusOne.AddplusOne(new int[] { 9 });
+//foreach(int i in resArray)
+//{
+//    Console.Write(i);
+//}
+
+//Console.WriteLine("Enter x and y");
+//int x = Convert.ToInt32(Console.ReadLine());
+//int y = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine(PowerOfX.Power(x,y));
+
+
+//Console.WriteLine(RandomGUIDGen.GenerateGUID());
+//Console.WriteLine(RandomGUIDGen.GenerateGUIDSec());
+
+QuadraticEquationProblems.DriverProgram();
+
 
 
 
